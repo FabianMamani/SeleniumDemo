@@ -18,6 +18,9 @@
     	<artifactId>testng</artifactId>
     	<version>7.0.0</version>
 	</dependency>
-	
   </dependencies>
+  <build>
+  	<plugins>
+  	</plugins>
+  </build>
 </project>
